@@ -1,4 +1,4 @@
-package org.pandacat.jt.pandacatbudget.Util;
+package org.pandacat.jt.pandacatbudget.Utilities;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
