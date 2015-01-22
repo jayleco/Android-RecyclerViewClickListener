@@ -42,7 +42,7 @@ public class RecyclerItemClickListener implements RecyclerView.OnItemTouchListen
         }
         return false;
     }
-    //TODO put onTouchEvent later 2
+    //TODO put onTouchEvent later 3
     public void onTouchEvent(RecyclerView view, MotionEvent motionEvent){
 
     }
